@@ -24,7 +24,7 @@
 ### Troubleshooting
 - **Check ports**: netstat -a -o | find "LISTENING"
 
-### How to get started FOR Windows
+### How to get started for Windows
 - Go to this url (https://sourceforge.net/projects/wampserver/) and download WAMP.
 - When asked:
     - [X] MariaDB
