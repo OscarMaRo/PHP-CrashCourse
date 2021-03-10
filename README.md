@@ -1,9 +1,15 @@
 # PHP CRASH COURSE
-- Work with AMP = Apache + MySQL + PHP
+```AMP = Apache + MySQL + PHP```
+
+### Operating Systems
+- **Linux**: LAMP
+- **Windows**: WAMP
 
 ## Multi-Tier Web Applications
 ### Web applications are built with multiple tiers.
-* Client: Web browser
-* Web: HTTP server
-* Business: Application server
-* Data: Database server
+- **Client**: Web browser
+- **Web**: HTTP server (Apache)
+- **Business**: Application server (PHP)
+- **Data**: Database server (MySQL)
+
+
