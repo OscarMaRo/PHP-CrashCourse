@@ -27,8 +27,8 @@
 ### How to get started FOR Windows
 - Go to this url (https://sourceforge.net/projects/wampserver/) and download WAMP.
 - When asked:
-    [X] MariaDB
-    [X] MySQL
+- [X] MariaDB
+- [X] MySQL
 - After installation is complete, right click on your taskbar and go to taskbar configuration.
 - Deactivate second function.
 - To start working, open WAMP.
@@ -42,8 +42,8 @@
 - Click in the WAMP icon.
 - Go to Apache=> Alias directories=> Add an alias.
 - Inside add the following when asked:
-    [X] Name of the domain of your choice.
-    [X] The path of your folder. NOTE: Change the '\' with '/' and add '/' to the end.
+- [X] Name of the domain of your choice.
+- [X] The path of your folder. NOTE: Change the '\' with '/' and add '/' to the end.
         Recommended path: wamp64/apps/<your_folder>/
 - Example:
     1. test
