@@ -44,8 +44,9 @@
 - Inside add the following when asked:
 - [X] Name of the domain of your choice.
 - [X] The path of your folder. NOTE: Change the '\' with '/' and add '/' to the end.
-        Recommended path: wamp64/apps/<your_folder>/
+        Recommended path: *wamp64/apps/<your_folder>/*
 - Example:
     1. test
     2. C:/wamp64/apps/test/
+- Once this is done access your project like this: http://localhost/test/
 
